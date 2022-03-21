@@ -30,7 +30,7 @@
 [![cat-of-tg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cat-of-tg&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=false&line_height=25&hide_title=true)](https://github.com/cat-of-tg/github-readme-stats)
 
  </details>
- ### 😻learning coding
+ <b><i>###😻Lᴇᴀʀɴɪɴɢ ᴄᴏᴅɪɴɢ</i></b>
 
 <img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/qFw6AsQptpuzQ33Fjd/giphy.gif?cid=6c09b952d65a849d347feeab83b62850459c4e66cf9f4569&rid=giphy.gif&ct=g">
 
