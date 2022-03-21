@@ -22,8 +22,14 @@
 
  <p align="left"><a href="https://t.me/cat_of_tg"><img src="https://te.legra.ph/file/3e4a637c82b4e8af8ef59.jpg" width="250"></a> </p> 
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alwin_biju_2006) <a href="https://telegram.dog/GTHero"><img src="https://telegra.ph/file/6098047142dec2b0cba9b.jpg" width="114"></a></p> 
-<details> <summary> <b> #Status </b> </summary>
+</a>&nbsp;&nbsp; <a href="https://t.me/GTHERO">
+
+    <img src="https://img.shields.io/badge/%20%F0%9F%92%99-Telegram-blue?style=for-the-badge" /> 
+
+</a>&nbsp;&nbsp; <a href="https://instagram.com/alwin_biju_2006">
+
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+<details> <summary> <b><i>#Sᴛᴀᴛᴜs</i></b></summary>
  
 #### + _Poisons's Github Stats_
  
