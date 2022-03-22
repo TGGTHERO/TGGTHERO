@@ -22,7 +22,7 @@
 
  <p align="left"><a href="https://t.me/cat_of_tg"><img src="https://te.legra.ph/file/3e4a637c82b4e8af8ef59.jpg" width="250"></a> </p> 
 
-<p align="center">  
+<p align="left">  
   <a href="https://t.me/GTHERO">
     <img src="https://img.shields.io/badge/%20%F0%9F%92%99-Telegram-blue?style=for-the-badge"/>
   </a>
