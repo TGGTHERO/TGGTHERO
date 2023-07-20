@@ -7,7 +7,7 @@
 ┣ ***RL NAME : ALWIN BIJU 🧸***                                                                                       
 ┣  ***TG NAME : GT HERO***                                                             
 ┣  ***CURRENTLY STUDYING  🍫***                   
-┣  ***STD : 9 ᵗʰ***            
+┣  ***STD : 11 ᵗʰ***            
 ┣  ***LEARNING PYTHON,JAVA*** ⚡️                            
 ┣ ***FROM INDIA [🇮🇳]***                            
 ┣  ***BLINK***  , ***CHOICE***  💜                    
@@ -20,7 +20,7 @@
 
 
 
- <p align="left"><a href="https://t.me/cat_of_tg"><img src="https://te.legra.ph/file/3e4a637c82b4e8af8ef59.jpg" width="250"></a> </p> 
+ <p align="left"><a href="https://t.me/cat_of_tg"><img src="https://graph.org/file/d24459bb2db7d99ccdf72.jpg" width="250"></a> </p> 
 
 <p align="left">  
   <a href="https://t.me/GTHERO">
