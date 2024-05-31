@@ -34,10 +34,6 @@
  
 #### + _Poisons's Github Stats_
  
-[![cat-of-tg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cat-of-tg&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=false&line_height=25&hide_title=true)](https://github.com/cat-of-tg/github-readme-stats)
+<img src="https://github-stats-alpha.vercel.app/api/?username=PR0FESS0R-99&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 
- </details>
- <b><i>###😻Lᴇᴀʀɴɪɴɢ ᴄᴏᴅɪɴɢ</i></b>
-
-<img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/qFw6AsQptpuzQ33Fjd/giphy.gif?cid=6c09b952d65a849d347feeab83b62850459c4e66cf9f4569&rid=giphy.gif&ct=g">
-
+I am a small telegram bot developer, You can see my [projects](https://github.com/TGGTHERO). If you like my work you can support
