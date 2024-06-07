@@ -7,9 +7,10 @@
 ┣ ***RL NAME : ALWIN BIJU 🧸***                                                                                       
 ┣  ***TG NAME : GT HERO***                                                             
 ┣  ***CURRENTLY STUDYING  🍫***                   
-┣  ***STD : 11 ᵗʰ***            
+┣  ***STD : 12 ᵗʰ***            
 ┣  ***LEARNING PYTHON,JAVA*** ⚡️                            
-┣ ***FROM INDIA [🇮🇳]***                            
+┣ ***FROM INDIA [🇮🇳]***    
+┣ ***CURRENTLY UK [🇬🇧]***
 ┣  ***BLINK***  , ***CHOICE***  💜                    
 ┣  ***TZUYU ADDICT*** 💝                        
 ┗ ━ ━ ━ ━ ━ ━ 
@@ -26,7 +27,7 @@
   <a href="https://t.me/GTHERO">
     <img src="https://img.shields.io/badge/%20%F0%9F%92%99-Telegram-blue?style=for-the-badge"/>
   </a>
-  <a href="https://instagram.com/alwin_biju_2006">
+  <a href="https://instagram.com/_alwin.biju">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>  
 </p>
