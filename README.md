@@ -10,9 +10,7 @@
 ┣  ***STD : 12 ᵗʰ***            
 ┣  ***LEARNING PYTHON,JAVA*** ⚡️                            
 ┣ ***FROM INDIA [🇮🇳]***    
-┣ ***CURRENTLY UK [🇬🇧]***
-┣***BLINK***  , ***CHOICE***  💜
-┣***TZUYU ADDICT*** 💝                        
+┣ ***CURRENTLY UK [🇬🇧]***          
 ┗ ━ ━ ━ ━ ━ ━ 
 
 
